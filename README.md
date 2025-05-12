@@ -6,6 +6,7 @@ The FLAPIBox is a cross-instrumental platform for musical instrument augmentatio
 
 # Housing
 
+[Bottom](https://github.com/erikstifjell/FLAPIBox/blob/main/FLAPIBOX-housing_bottom5-2.stl)
 
 # Parts list
 

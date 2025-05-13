@@ -51,4 +51,4 @@ These are STL-files for 3D-printing. All versions of the FLAPIBox are printed wi
 * Electrical wire			
 
 
-[^1]One powerbank needs to output enough amps to power the amplifier. Alternatively Li-ion batteries with separate 3,7-5v step-up converter/charging boards can be used.
+[^1]: One powerbank needs to output enough amps to power the amplifier. Alternatively Li-ion batteries with separate 3,7-5v step-up converter/charging boards can be used.
